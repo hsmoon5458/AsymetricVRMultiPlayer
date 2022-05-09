@@ -1,10 +1,9 @@
-# MOVIS Project Base Template for Asymetric Multi-User Platform.
+# Base Template for Asymetric Multi-User Platform.
 > Base Platform Templates and Multiple Projects
 > 
 Please pull this repo with Unity 2020 LTS 3.xx. 
 
 ## Please Read!
-- DO NOT make any changes on **base_template(main)**.
 - Automatic matching of tracker mathcing with tablet users are implemented in "Steam_VRTrackedObject" script.
 - DO NOT update "Steam_VR Tracked Object" script, or reimport SteamVR package which might change the script.
 - Trackers' serial nubmers should be identified and synchronized for automatic tracking.
