@@ -1,7 +1,7 @@
 # Base Template for Asymetric Multi-User Platform.
-> Base Platform Templates and Multiple Projects
+> This projects template enables the VIVE tracker and to use in android tablets.
 > 
-Please pull this repo with Unity 2020 LTS 3.xx. 
+
 
 ## Please Read!
 - Automatic matching of tracker mathcing with tablet users are implemented in "Steam_VRTrackedObject" script.
