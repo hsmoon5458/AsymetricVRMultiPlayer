@@ -1,6 +1,6 @@
 # Base Template for Asymetric Multi-User Platform.
 > This projects template enables the VIVE trackers to use in android tablets.
-> 
+> Please check this channel for more projects: https://www.youtube.com/channel/UCYnFGYS1qqZasqP2qlOaVpw
 
 
 ## Please Read!
